@@ -14,7 +14,7 @@ Registered timeouts are not detected by the jest "detectOpenHandles" option
 I only tested this on MacOS. I assume the same behaviour in other operating systems.
 
 ## Usage
-1. Clone repository  ```git clone https://github.com/TarSzator/jest-open-handle-test.git```
+1. Clone repository  ```git clone https://github.com/TarSzator/jest-open-handle-test.git``` or ```git clone git@github.com:TarSzator/jest-open-handle-test.git```
 1. Go into the folder ```cd jest-open-handle-test```
 1. Install dependencies ```npm install```
 1. Run test with an open handler ```npm run testFail```

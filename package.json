@@ -1,11 +1,11 @@
 {
   "name": "jest-open-handle-test",
   "version": "0.0.0",
-  "description": "Test to check a jest bug",
+  "description": "This project is to reproduce a probable issue in Jest and show source to trigger error",
   "main": "src/server.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TarSzator/jest-open-handle-test.git"
+    "url": "git@github.com:TarSzator/jest-open-handle-test.git"
   },
   "author": "René Simon <mail@rene-simon.eu>",
   "pre-commit": "lint:staged",
