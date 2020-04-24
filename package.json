@@ -1,6 +1,6 @@
 {
   "name": "jest-open-handle-test",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "This project is to reproduce a probable issue in Jest and show source to trigger error",
   "main": "src/server.js",
   "repository": {
