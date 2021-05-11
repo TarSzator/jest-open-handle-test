@@ -37,7 +37,7 @@
     "prettify": "prettier --write '**/*.js'"
   },
   "dependencies": {
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.5",
